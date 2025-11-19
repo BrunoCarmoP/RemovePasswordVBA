@@ -40,4 +40,9 @@ Você precisa ter o **Python 3.x** instalado.
 O projeto depende da biblioteca `openpyxl`. Você pode instalá-la via `pip`:
 
 ```bash
+
 pip install openpyxl
+```
+
+
+### Desenvolvido por @BrunoCarmoP
